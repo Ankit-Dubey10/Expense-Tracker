@@ -29,7 +29,7 @@ A full-stack web application for tracking personal expenses and income. Built wi
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Ankit-Dubey10/expense-tracker.git
    cd expense-tracker
    ```
 
@@ -76,6 +76,7 @@ A full-stack web application for tracking personal expenses and income. Built wi
 expense-tracker/
 ├── client/                 # React frontend
 │   ├── public/
+│   ├── src/
 │   │   ├── components/     # React components
 │   │   ├── context/        # Global state management
 │   │   └── utils/          # Utility functions
@@ -147,8 +148,8 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Ankit Dubey**
+- GitHub: [@Ankit-Dubey10](https://github.com/Ankit-Dubey10)
 
 ---
 
