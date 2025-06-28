@@ -21,8 +21,4 @@ A full-stack web application for tracking personal expenses and income. Built wi
 
 ![Expense Tracker](expense-tracker.PNG)
 
-## 👨‍💻 Author
-
-**Ankit Dubey**
-- GitHub: [@Ankit-Dubey10](https://github.com/Ankit-Dubey10)
 
