@@ -26,6 +26,3 @@ A full-stack web application for tracking personal expenses and income. Built wi
 **Ankit Dubey**
 - GitHub: [@Ankit-Dubey10](https://github.com/Ankit-Dubey10)
 
----
-
-⭐ If you found this project helpful, please give it a star!
