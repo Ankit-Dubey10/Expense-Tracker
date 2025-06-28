@@ -1,5 +1,7 @@
 # Expense Tracker
 
+<!-- Project created by Ankit Dubey -->
+
 A full-stack web application for tracking personal expenses and income. Built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 ## ✨ Features
@@ -21,4 +23,8 @@ A full-stack web application for tracking personal expenses and income. Built wi
 
 ![Expense Tracker](expense-tracker.PNG)
 
+
+---
+
+⭐ If you found this project helpful, please give it a star!
 

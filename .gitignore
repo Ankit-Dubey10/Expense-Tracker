@@ -1,3 +1,5 @@
+# .gitignore for Expense Tracker by Ankit Dubey
+
 # Dependencies
 node_modules/
 npm-debug.log*

@@ -1,3 +1,5 @@
+// This is the main App component created by Ankit Dubey
+// I am learning React!
 import './App.css';
 import { AddTransaction } from './components/AddTransaction';
 import { Balance } from './components/Balance';
